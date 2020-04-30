@@ -1,0 +1,71 @@
+body {
+	font-family: 'Roboto', sans-serif;
+
+	background:url(../img/login.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.container {
+    width: 650px;
+	margin:10px auto;
+}
+
+.login-section {
+    background-color: #b9aa968c;
+    padding: 40px;
+
+}
+
+.login-section img{
+    display: block;
+    margin: 0px auto;
+}
+
+.login-section h3{
+    text-align: center;
+    color: red;
+    font-size: 25px;
+    margin: 10px 0px;
+    text-transform: uppercase;
+
+}
+.form-control {
+    width: 95%;
+
+    height: 35px;
+
+    padding: 5px;
+    
+    margin-bottom: 14px;
+  
+}
+
+.submit-btn {
+
+    display: block;
+
+    margin: 0px auto;
+
+    background-color: blueviolet;
+
+    color: beige;
+
+    padding: 8px 22px;
+
+    border: sienna;
+
+    text-transform: uppercase;
+
+    transform:0.4s ease-in-out;
+
+}
+
+
+.submit-btn:hover {
+	box-shadow: 2px 3px 4px;
+    cursor: pointer;
+    
+}
+
+	
